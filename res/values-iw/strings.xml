@@ -430,7 +430,7 @@
     <string name="anonymous_statistics_title">סטטיסטיקות CarbonOS</string>
     <string name="anonymous_statistics_summary">עזור לשפר את CarbonOS על ידי שליחת דיווחי סטטיסטיקות אנונימית</string>
     <string name="anonymous_statistics_warning_title">אודות</string>
-    <string name="anonymous_statistics_warning">הצטרפות לסטטיסטיקות CarbonOS תאפשר שליחת מידע לא אישי למפתחי CarbonOS על מנת לאתר את מספר ההתקנות היחודיות לכל סוג מכשיר. המידע הנשלח כולל מזהה ייחודי, אשר אינו פוגע בפרטיותך או בנתונים האישיים שלך. המידע נשלח בכל אתחול המכשיר.\n\nכדי לצפות בדוגמה של מידע שנשלח, יש להקיש על הצגת נתונים מקדימה.</string
+    <string name="anonymous_statistics_warning">הצטרפות לסטטיסטיקות CarbonOS תאפשר שליחת מידע לא אישי למפתחי CarbonOS על מנת לאתר את מספר ההתקנות היחודיות לכל סוג מכשיר. המידע הנשלח כולל מזהה ייחודי, אשר אינו פוגע בפרטיותך או בנתונים האישיים שלך. המידע נשלח בכל אתחול המכשיר.\n\nכדי לצפות בדוגמה של מידע שנשלח, יש להקיש על הצגת נתונים מקדימה.</string>
     <string name="enable_reporting_title">אפשר דיווח</string>
     <string name="preview_data_title">תצוגה מקדימה של נתונים</string>
     <string name="view_stats_title">הצגת סטטיסטיקה</string>
